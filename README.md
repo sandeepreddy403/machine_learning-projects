@@ -1,19 +1,5 @@
 This repository contains a collection of machine learning projects implemented using various algorithms and datasets. Each project explores a unique problem, applying machine learning techniques to build predictive models, perform data analysis, and extract insights. The projects are organized into separate folders with detailed explanations and code.
 
-1. ALS Disease Prediction
-Description: This project aims to predict the progression of Amyotrophic Lateral Sclerosis (ALS) using patient data. Various machine learning models are explored to classify and predict disease progression.
-Techniques:
-Exploratory Data Analysis (EDA)
-Data Preprocessing (handling missing values, scaling)
-Model Building
-Model Evaluation (accuracy, precision, recall, F1-score)
-
-
-Here’s a README tailored for your ALS and smartphones projects:
-
-Machine Learning Projects: ALS and Smartphone Price Prediction
-This repository contains two machine learning projects focusing on Amyotrophic Lateral Sclerosis (ALS) Prediction and Smartphone Price Prediction. Each project demonstrates different machine learning techniques, including data preprocessing, model building, and evaluation.
-
 Projects
 1. ALS Disease Prediction
 Description: This project aims to predict the progression of Amyotrophic Lateral Sclerosis (ALS) using patient data. Various machine learning models are explored to classify and predict disease progression.
